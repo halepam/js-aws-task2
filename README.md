@@ -8,3 +8,6 @@ d1izgcw2dq3ahs.cloudfront.net
 
 ## To build and Deploy frontend
 `npm run build:deploy`
+
+## Other Useful Commands
+`cdk synth`
